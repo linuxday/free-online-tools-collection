@@ -1,8 +1,8 @@
-# Majk - Free Online Tools Collection | Development/Office/Design Tools (Completely Free/Ad - free/Multi - language)
+# CodeSwordsman - Free Online Tools Collection | Development/Office/Design Tools (Completely Free/Ad - free/Multi - language)
 
 ## Introduction
 
-Majk is a feature - rich collection of free online tools, covering various fields such as development, office work, and design. We are committed to providing high - quality, ad - free online tool services to programmers, designers, office workers, and other users. All tools are completely free and have no usage restrictions, making them convenient and fast.
+CodeSwordsman is a feature - rich collection of free online tools, covering various fields such as development, office work, and design. We are committed to providing high - quality, ad - free online tool services to programmers, designers, office workers, and other users. All tools are completely free and have no usage restrictions, making them convenient and fast.
 
 ## Tool Classification List
 
@@ -142,12 +142,12 @@ Majk is a feature - rich collection of free online tools, covering various field
 
 ## Product Series
 
-### Majk File Renamer
+### CodeSwordsman File Renamer
 - **Function**: Batch rename files, supporting multiple naming rules.
 - **Link**: <https://lumtool.com/products/file - renamer>
 - **Experience**: Easy to operate, supports batch processing, and saves time.
 
-### Majk Image Converter
+### CodeSwordsman Image Converter
 - **Function**: Convert image formats and adjust image size.
 - **Link**: <https://lumtool.com/products/image - converter>
 - **Experience**: Supports multiple image formats with high - quality conversion.
@@ -161,7 +161,7 @@ Majk is a feature - rich collection of free online tools, covering various field
 
 ## Contribution Guidelines
 
-If you find other high - quality free online tools, or have any suggestions and improvement ideas for Majk tools, you are welcome to submit an Issue or Pull Request (PR). When submitting a PR, please follow these rules:
+If you find other high - quality free online tools, or have any suggestions and improvement ideas for CodeSwordsman tools, you are welcome to submit an Issue or Pull Request (PR). When submitting a PR, please follow these rules:
 1. **Complete Tool Information**: You need to specify the tool name, function description, link, and a brief usage experience.
 2. **Tool Quality Review**: The submitted tools should be practical and stable, without malware or ad harassment.
 3. **Code Specification**: Follow the existing code style and structure of the project.
@@ -171,4 +171,4 @@ If you find other high - quality free online tools, or have any suggestions and 
 - **GitHub**: <https://github.com/linuxday/free-online-tools-collection.git - web>
 - **Feedback Email**: <support@lumtool.com>
 
-We hope Majk can bring convenience to your work and study. Let's build a rich free online tool resource library together! If you find this repository useful, please give it a Star ⭐ to let more people discover it.
+We hope CodeSwordsman can bring convenience to your work and study. Let's build a rich free online tool resource library together! If you find this repository useful, please give it a Star ⭐ to let more people discover it.
